@@ -1,0 +1,9 @@
+Open Interview1 MVC solution from C:\Shawn\Practice\Interview2.
+
+Write some code to open the file called 'Juxtapositions'. The path is in the web.config.
+
+Each line is a database record. Each column of the record is delimited with the '|' character.
+ 
+Create a List containing each record, then sort through the list and find all records containing the word 'juxtaposition'.
+
+Print the List of records containing the word juxtaposition on the Home page. Print out the count also.
